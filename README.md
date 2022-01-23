@@ -1,4 +1,8 @@
-# pave_intro
+# Code
+
+I basically just found code online that could detect circles, altered some of the constraints, and used this to calculate the radii and centers of the buoys. I explain how I calculate distance within the code. I think this might have been a little more simple of an approach than maybe I should have taken, but without having much familiarity with python this is what I came up with. 
+
+pave_intro
 Week 0 PAVE assignment
 
 Hi everyone. Excited to get started. As I mentioned in the meeting today, this assignment will range from fairly trivial to somewhat challenging depending on you coding background, but should be very doable for everyone. Feel free to do a simple pixel-search implementation or something fancier with a CNN. Here are the goals:
